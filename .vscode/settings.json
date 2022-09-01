@@ -1,0 +1,24 @@
+{
+    "editor.fontFamily": "cartograph cf",
+    "editor.lineHeight": 30,
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#a22c89",
+        "activityBar.background": "#a22c89",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#2a320e",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#a22c89",
+        "statusBar.background": "#7a2167",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#a22c89",
+        "statusBarItem.remoteBackground": "#7a2167",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#7a2167",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#7a216799",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#7a2167"
+}
